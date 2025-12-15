@@ -13,8 +13,8 @@ I work with IT infrastructure, networks, linux systems, cloud computing, and aut
 
 
 ## 📫 Contact
-- 💬 LinkedIn: [Caio Cesar](https://www.linkedin.com/in/caio-cesar-0710101b7/)
-- 📧 Email: **engcaioufba@gmail.com**
+- LinkedIn: [Caio Cesar](https://www.linkedin.com/in/caio-cesar-0710101b7/)
+- Email: **engcaioufba@gmail.com**
 
 ---
 
